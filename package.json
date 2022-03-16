@@ -46,5 +46,6 @@
   "bugs": {
     "url": "https://github.com/viktorka1347/reaktt-2/issues"
   },
-  "homepage": "https://github.com/viktorka1347/reaktt-2#readme"
+  "homepage": "https://github.com/viktorka1347/reaktt-2#readme",
+  "devDependencies": {}
 }
